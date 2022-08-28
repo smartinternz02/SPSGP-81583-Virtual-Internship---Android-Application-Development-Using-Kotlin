@@ -1,9 +1,9 @@
-# SPSGP-78969-Virtual-Internship---Android-Application-Development-Using-Kotlin
+# SPSGP-81583-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
 
-## Name: ANSH SINGH SONKHIA
+## Name: Aman Nawal
 
-[Google Developer Profile](https://g.dev/AnshSinghSonkhia)
+
 
 ### All Android Projects:
 
